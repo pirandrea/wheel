@@ -1,0 +1,4 @@
+# I wheel vengono distribuiti tramite GitHub Releases, non versionati in git
+# (superano il limite di 100 MB/file di GitHub)
+*.whl
+wheel/*.whl
